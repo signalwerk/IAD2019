@@ -233,6 +233,10 @@ header  {
     margin-right: auto;
     padding: 1.3rem 0;
   }
+.slide-list ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem
+  }
 @media (min-width: 1000px) {
 html {
     font-size: 16px
@@ -254,6 +258,38 @@ h1 {
         flex-basis: 27%;
     background-color: yellow;
     height: 20rem;
+  }
+.slide-list {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between
+}
+
+  .slide-list h4,
+  .slide-list ul {
+      -ms-flex-negative: 1;
+          flex-shrink: 1;
+      -webkit-box-flex: 1;
+          -ms-flex-positive: 1;
+              flex-grow: 1
+  }
+
+  .slide-list h4 {
+      max-width: 45%;
+      -ms-flex-preferred-size: 45%;
+          flex-basis: 45%
+  }
+
+  .slide-list ul {
+      margin-top: 0.3rem;
+      max-width: 50%;
+      -ms-flex-preferred-size: 50%;
+          flex-basis: 50%
   }
   }
 
