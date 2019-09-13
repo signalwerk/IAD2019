@@ -36,25 +36,33 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
-#### [Bildschirme und Fonts · KW 36](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
-* Bildschirmauflösung
-* Display Technologien
-* [Dokument · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 
-#### [LAB · KW 36 · HTML 1×1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
+
+#### [KW 37 · Case Study · Self-Service](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
+
+* [Aufgabestellung](https://github.com/logrinto/IAD2017-2019.self-service)
+* 24h-Pizzeria
+* Case Study
+
+
+#### [KW 36 · LAB · HTML & CSS 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
 * Setup Git-Client
 * HTML & CSS 1×1
 
+#### [KW 36 · Bildschirme und Fonts](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
+* [Dokument · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
+* Bildschirmauflösung
+* Display Technologien
 
-#### [LAB · KW 35 · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
+
+
+#### [KW 35 · LAB · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
+* [Dokument · Hausaufgabe](./exercise-exp-story/)
 * Setup (Slack/GitHub/Texteditor)
 * Lernziele
 * Passwörter/Sicherheit
-* [Dokument · Hausaufgabe](./exercise-exp-story/)
 * Dokumente Strukturieren
 * HTML → publish to GitHub
-
-
 
 
 
