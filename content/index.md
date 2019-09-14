@@ -38,6 +38,15 @@ description: Dokumente für IAD 2019
 
 
 
+#### [KW 37 · LAB · Internet · 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
+
+* Internet · 1 × 1
+* Geschichte Internet
+* Übermittlung Daten
+<!-- * [Task · Telegraf](./task-telegraph-isdn) -->
+
+
+
 #### [KW 37 · Case Study · Self-Service](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
 
 * [Aufgabestellung](https://github.com/logrinto/IAD2017-2019.self-service)
