@@ -37,11 +37,23 @@ description: Dokumente für IAD 2019
 <div class='slide-list'>
 
 
+#### [KW 38 · Typografische Systeme](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
+
+* [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
+* Typografische Strukturen
+* Grid
+
+
+
+
 #### [KW 37 · LAB · Internet · 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
 
 * Internet · 1 × 1
 * Geschichte Internet
 * Übermittlung Daten
+* CSS · Grundlagen
+* HTML Bilder
+* HTML Fonts
 <!-- * [Task · Telegraf](./task-telegraph-isdn) -->
 
 
