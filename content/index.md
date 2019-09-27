@@ -37,6 +37,21 @@ description: Dokumente für IAD 2019
 <div class='slide-list'>
 
 
+#### [KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/KW39-2019/)
+* Praxisarbeit
+
+
+#### [KW 39 · Technologiegeschichte der Schrift](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-font-technology/)
+
+* [Dokumentation](https://signalwerk.github.io/learn.interaction/articles/font-history/)
+* Handschrift & Buchschrift
+* Werkzeug & Achslage
+* Buchdruck & Setzmaschinen
+* Fotosatz & WYSIWYG
+* Digitale Schrift
+
+
+
 #### [KW 38 · Typografische Systeme](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
 
 * [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
