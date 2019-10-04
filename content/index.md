@@ -33,8 +33,9 @@ description: Dokumente für IAD 2019
 * [Technologiegeschichte der Schrift](https://signalwerk.github.io/learn.interaction/articles/font-history)
 
 ### Grdundlagen
-* [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
+* [Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 * [Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
+* [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 
 
 ## 1. Semester
