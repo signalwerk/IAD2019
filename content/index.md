@@ -34,7 +34,7 @@ description: Dokumente für IAD 2019
 
 ### Grdundlagen
 * [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
-
+* [Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
 
 
 ## 1. Semester
@@ -44,6 +44,15 @@ description: Dokumente für IAD 2019
 ### Slides
 
 <div class='slide-list'>
+
+
+#### [KW 40 · LAB · URL & DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
+* [Dokumentation · Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
+* [Dokumentation · Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
+* URL
+* Domains
+* DNS
+* Praxisarbeit
 
 
 #### [KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
