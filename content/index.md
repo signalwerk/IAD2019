@@ -26,18 +26,27 @@ description: Dokumente für IAD 2019
 
 -->
 
-## 1. Semester
 
+## Dokumente
+
+### Kontext
+* [Technologiegeschichte der Schrift](https://signalwerk.github.io/learn.interaction/articles/font-history)
+
+### Grdundlagen
+* [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
+
+
+
+## 1. Semester
 ### Dokumente
 * [LAB · Hausaufgabe · Dokumentation · Experimentelles Erzählen](./exercise-exp-story/)
-* [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 
 ### Slides
 
 <div class='slide-list'>
 
 
-#### [KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/KW39-2019/)
+#### [KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
 * Praxisarbeit
 
 
