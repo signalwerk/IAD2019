@@ -47,6 +47,14 @@ description: Dokumente für IAD 2019
 <div class='slide-list'>
 
 
+#### [KW 44 · LAB · DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW44-2019/)
+* [Dokumentation · Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
+* Domains (gratis)
+* Provider
+* DNS
+* Praxisarbeit
+
+
 #### [KW 40 · LAB · URL & DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
 * [Dokumentation · Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
 * [Dokumentation · Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
