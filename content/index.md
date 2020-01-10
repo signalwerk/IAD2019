@@ -46,12 +46,20 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
-#### [KW 50 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW50-2019/)
+
+
+#### [2020 · KW 03 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW02-2019/)
+* Mobile Daten
+* [Custom Domain bei Freenom](./freenom/)
+
+
+
+#### [2019 · KW 50 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW50-2019/)
 * Domains (gratis)
 * Praxisarbeit
 
 
-#### [KW 44 · LAB · DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW44-2019/)
+#### [2019 · KW 44 · LAB · DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW44-2019/)
 * [Dokumentation · Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 * Domains (gratis)
 * Provider
@@ -59,7 +67,7 @@ description: Dokumente für IAD 2019
 * Praxisarbeit
 
 
-#### [KW 40 · LAB · URL & DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
+#### [2019 · KW 40 · LAB · URL & DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
 * [Dokumentation · Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
 * [Dokumentation · Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 * URL
@@ -68,11 +76,11 @@ description: Dokumente für IAD 2019
 * Praxisarbeit
 
 
-#### [KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
+#### [2019 · KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
 * Praxisarbeit
 
 
-#### [KW 39 · Technologiegeschichte der Schrift](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-font-technology/)
+#### [2019 · KW 39 · Technologiegeschichte der Schrift](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-font-technology/)
 
 * [Dokumentation](https://signalwerk.github.io/learn.interaction/articles/font-history/)
 * Handschrift & Buchschrift
@@ -83,7 +91,7 @@ description: Dokumente für IAD 2019
 
 
 
-#### [KW 38 · Typografische Systeme](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
+#### [2019 · KW 38 · Typografische Systeme](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
 
 * [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
 * Typografische Strukturen
@@ -92,7 +100,7 @@ description: Dokumente für IAD 2019
 
 
 
-#### [KW 37 · LAB · Internet · 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
+#### [2019 · KW 37 · LAB · Internet · 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
 
 * Internet · 1 × 1
 * Geschichte Internet
@@ -104,25 +112,25 @@ description: Dokumente für IAD 2019
 
 
 
-#### [KW 37 · Case Study · Self-Service](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
+#### [2019 · KW 37 · Case Study · Self-Service](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
 
 * [Aufgabestellung](https://github.com/logrinto/IAD2017-2019.self-service)
 * 24h-Pizzeria
 * Case Study
 
 
-#### [KW 36 · LAB · HTML & CSS 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
+#### [2019 · KW 36 · LAB · HTML & CSS 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
 * Setup Git-Client
 * HTML & CSS 1×1
 
-#### [KW 36 · Bildschirme und Fonts](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
+#### [2019 · KW 36 · Bildschirme und Fonts](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
 * [Dokument · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * Bildschirmauflösung
 * Display Technologien
 
 
 
-#### [KW 35 · LAB · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
+#### [2019 · KW 35 · LAB · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
 * [Dokument · Hausaufgabe](./exercise-exp-story/)
 * Setup (Slack/GitHub/Texteditor)
 * Lernziele
