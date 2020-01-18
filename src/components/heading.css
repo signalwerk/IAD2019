@@ -7,32 +7,39 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  margin-top: 0.3em;
-  margin-bottom: 0.1em;
+  margin-top: 0.5em;
+  margin-bottom: 0.2em;
 }
 
 h1 {
   font-size: 1.2rem;
   @media (--breakpoint-l) {
-    font-size: 1.3rem;
+    font-size: 1.4rem;
   }
   margin-top: 0.8em;
   margin-bottom: 3em;
-}
-
-h2 {
-  font-size: 1.1rem;
-  margin-top: 1.2em;
-}
-
-h3 {
-  font-size: 1rem;
-  margin-top: .7em;
-  margin-bottom: 0.1em;
-}
-
-h1, h2 {
 
   letter-spacing: 0.1em;
   text-transform: uppercase;
+}
+
+h2 {
+  font-size: 1.3rem;
+  @media (--breakpoint-l) {
+    font-size: 1.3rem;
+  }
+  margin-top: 1.6em;
+  margin-bottom: 0.2em;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-top: 1.1em;
+  margin-bottom: 0.1em;
+}
+
+h4 {
+  font-size: 1rem;
+  margin-top: 0.7em;
+  margin-bottom: 0.1em;
 }

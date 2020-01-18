@@ -48,7 +48,13 @@ description: Dokumente für IAD 2019
 
 
 
-#### [2020 · KW 03 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW02-2019/)
+
+#### [2020 · KW 03 · Semesterprüfung](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW03-2019/)
+* [Semesterprüfung · IAD2019](./excercise-first-semester/)
+
+
+
+#### [2020 · KW 02 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW02-2019/)
 * Mobile Daten
 * [Custom Domain bei Freenom](./freenom/)
 
