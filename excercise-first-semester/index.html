@@ -1,0 +1,93 @@
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Semesterprüfung · IAD2019</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Semesterprüfung · IAD2019" />
+    <link
+      rel="stylesheet"
+      href="./../styles/main.critical.css"
+      media="all"
+    />
+    <link
+      rel="preload"
+      as="style"
+      onload="this.onload=null;this.rel='stylesheet'"
+      href="./../styles/main.rest.css"
+      media="all"
+    />
+    <script src="./../index.js"></script>
+  </head>
+  <body>
+     <div class="navigation"><div class="navigation__content"><a href="./..">Home</a></div></div> 
+    <article class="content"><h1 id="semesterprüfung-·-iad2019">Semesterprüfung · IAD2019</h1>
+<p><small>Durchführung 18. 1. 2020</small></p>
+<hr>
+<h2 id="ablauf">Ablauf</h2>
+<p><strong>12:45 – 13:00</strong> · Einführung<br><strong>13:00 – 14:15</strong> · Aufgabe lösen<br><strong>14:15 – 14:45</strong> · Pause<br><strong>14:45 – 15:55</strong> · Aufgabe lösen<br><strong>15:55 – 16:15</strong> · Review  </p>
+<br />
+
+<hr>
+<h2 id="thema">Thema</h2>
+<p>Anmeldung für Online-Dienst</p>
+<h2 id="umfeld">Umfeld</h2>
+<p>Sobald eine Webseite oder ein Online-Dienst personalisierte Informationen bereit hält, muss der User sich gegenüber dem Service autentifizieren. Klassisch geschieht dies mittels Account. Somit haben viele Websites ein Anmeldeformular für eben solches.</p>
+<h2 id="aufgabestellung">Aufgabestellung</h2>
+<p>Entwickeln Sie eine Seite (ohne sonstigen Inhalt), mit der sich ein Benutzer für einen Service anmelden kann. Dabei ist darauf zu acheten, dass neue Benutzer, wie auch Benutzer mit bestehenden Accounts sich schnell beim Service anmelden können. Es muss ein klassisches Anmeldeverfahren mit Username und Passwort umgesetzt werden.</p>
+<p>Folgende Informationen müssen für den Betreiber des Services in der Anmeldung abgefragt werden:</p>
+<ul>
+<li><strong>E-Mail-Adresse</strong> – Verifizierung erforderlich</li>
+<li><strong>Username</strong> – werden auf dem Dienst intensiv zur Identitätsbildung verwendet (@-Handle)</li>
+<li><strong>Passwort</strong> – minimale stärke vom Passwort</li>
+<li><strong>AGB</strong> – Allgemeine Geschäftsbedingungen wurden angenommen</li>
+</ul>
+<h2 id="umfang">Umfang</h2>
+<ol>
+<li>Visualisieren Sie alle nötigen Schritte als Wireframe (einfacher Seitenaufbau ohne grafische Detailausarbeitung) um sich beim Service anzumelden.</li>
+<li>Notieren Sie zu jedem Interaktions-Element mögliche Status ((siehe unten)) und wann diese aktiv sein sollen. Dabei ist darauf zu achten, dass diese Vorlage als Skizze für die Umsetzung dienen kann. Alle funktionalen Zusammenhänge müssen somit aufgezeigt/beschrieben sein.</li>
+</ol>
+<h2 id="technologie">Technologie</h2>
+<p>Die Visualisierung muss für Mobile funktionieren. Die Angaben zum Status müssen auch für Desktop funktionieren und alle Möglichkeiten bedenken.</p>
+<h2 id="arbeitstechnik">Arbeitstechnik</h2>
+<p>Die Arbeitstechnik ist den Studierenden frei gestellt. Es wird jedoch empfohlen in Itterationen zu arbeiten. Zuerst sollte also möglichst reduziert ein Entwurf fertig gemacht werden und erst danach dieser Schritt um Schritt ausgearbeitet werden.</p>
+<h2 id="abgabe">Abgabe</h2>
+<p>Die Visualisierung muss bis 15:55 Uhr als <a href="https://github.com/signalwerk/IAD2019/issues">GitHub-Issue</a> abgegeben werden.</p>
+<h2 id="bewertung">Bewertung</h2>
+<h3 id="technik-15">Technik (15%)</h3>
+<ul>
+<li>Die Abgegebenen Visualisierungen sind für eine technische Realisation aussagekräftig</li>
+<li>Die Realisation mittels Browser-Technologie ist gegeben</li>
+</ul>
+<h3 id="inhalt-20">Inhalt (20%)</h3>
+<ul>
+<li>Inhaltliche Strukturen wurden geschaffen</li>
+<li>Alle Inhaltselemente wurden genügend Visualisiert</li>
+<li>Inhalte wurden wo nötig mit Platzhalter visualisiert</li>
+</ul>
+<h3 id="interaktionführung-50">Interaktion/Führung (50%)</h3>
+<ul>
+<li>Interaktion ist schlüssig und schnell zugänglich</li>
+<li>Interaktion wurde für Touch-Screen optimiert</li>
+<li>Fehlerhafte oder inkompatible Eingaben wurden in der Führung berücksichtigt</li>
+<li>Die Führung ist überlegt und offensichtlich</li>
+<li>Gewohnte Interface-Konzepte</li>
+</ul>
+<h3 id="grafisches-konzept-15">Grafisches Konzept (15%)</h3>
+<ul>
+<li>Der grafische Aufbau ist schlüssig und durchgängig</li>
+<li>Typografische Abstufung und Grössenverhältnisse sind sinnvoll gewählt.</li>
+<li>Screenarchitektur überlegt</li>
+<li>Zweckmässigkeit gegeben</li>
+</ul>
+<hr>
+<h2 id="beispiele">Beispiele</h2>
+<h3 id="status">Status</h3>
+<p>Um zu verdeutlichen, was mit möglichen Status eines Interaktions-Element gemeint sein könnte, hier ein kontextfreies Beispiel anhand eines Sliders:</p>
+<br />
+
+<p><img src="./img/slide-status.svg" alt="Beispiel Slider Status"></p>
+<h3 id="funktionale-zusammenhänge">Funktionale Zusammenhänge</h3>
+<p>Die Express-Funktion kann zwischen 22:00 – 6:00 Uhr nicht ausgewählt werden deshalb wird dann das Element durch das Mond-Icon (schlafen) symbolisiert.</p>
+</article>
+  </body>
+</html>
