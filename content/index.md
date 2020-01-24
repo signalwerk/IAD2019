@@ -48,6 +48,11 @@ description: Dokumente für IAD 2019
 
 
 
+#### [2020 · KW 04 · LAB · Dokumentation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW04-2019/)
+* [Präsentation · Dokumentation](./exercise-exp-story/)
+
+
+
 
 #### [2020 · KW 03 · Semesterprüfung](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW03-2019/)
 * [Semesterprüfung · IAD2019](./excercise-first-semester/)

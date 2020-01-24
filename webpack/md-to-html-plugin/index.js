@@ -47,11 +47,6 @@ function generateHTML({
         compilation
       });
     } else {
-      console.log({
-        currentFolder,
-        parentPath,
-        generatePath
-      });
       let generateFile = path.join(generatePath, file.replace(mdReg, ".html"));
 
       try {
@@ -74,7 +69,6 @@ function generateHTML({
 
           let rootPath = ".";
           if (currentFolder !== "./") {
-            console.log("currentFolder", currentFolder)
             rootPath = `.${currentFolder.replace(/[^\/]+/g, "..")}`;
           }
 
@@ -108,7 +102,6 @@ function generateHTML({
       } else {
         // if not markdown file, just copy
         // nodejs v8.5 use copyFileSync
-        console.log("----copy", filePath, generateFile)
         fs.copyFileSync(filePath, generateFile);
         // fs.createReadStream(filePath).pipe(fs.createWriteStream(generateFile));
       }
