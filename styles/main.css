@@ -121,15 +121,15 @@ h1 {
   text-transform: uppercase;
 }
 h2 {
-  font-size: 1.3rem;
+  font-size: 1.2rem;
 }
 h2 {
-  margin-top: 1.6em;
+  margin-top: 1.7em;
   margin-bottom: 0.2em;
 }
 h3 {
-  font-size: 1.2rem;
-  margin-top: 1.1em;
+  font-size: 1.12rem;
+  margin-top: 1.2em;
   margin-bottom: 0.1em;
 }
 h4 {
@@ -272,7 +272,7 @@ h1 {
     font-size: 1.4rem;
 }
 h2 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
 }
   .col-content {
     /* critical */
