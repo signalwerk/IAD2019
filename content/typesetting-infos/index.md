@@ -17,8 +17,8 @@ description: Fablab
 
 
 ## Material
-![](./img/IMG_7766.JPG)
-![](./img/IMG_7764.JPG)
+![](./img/IMG_8015.jpg)
+![](./img/IMG_3189.jpg)
 
 ### Buchstaben klein (~24 Cicero)
 * **12 × Sperrholz Birke 18 mm** · Dicke: 18 mm, L × B: 550 × 108 mm
@@ -29,8 +29,9 @@ description: Fablab
 * **6 × Oecoplan MDF 5 mm** · Dicke: 5 mm, L × B: 550 × 144 mm
 
 ### Sonstiges
-* 2 × Holzleim
-* 2 × Schleifpapier
+* 3 × Holzleim
+* 2 × Schleifpapier-Pack
+* 1 × Buchstaben-Muster
 
 
 
