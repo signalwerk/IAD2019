@@ -11,6 +11,7 @@ description: Aufgabe · Fachwörter
   border-width: 0 0 0 0.5rem;
   padding: 1.25em 1.5em;
   background-color: #f5f5f5;
+  margin-bottom: 2rem;
 }
 .next h3 {
   margin-top: 0;
@@ -25,10 +26,18 @@ description: Aufgabe · Fachwörter
 
 ### Aktuell Heimarbeit
 
-Am 13. 3. 2020 muss der Text vorliegen, da dann dieser in die Website eingebaut werden soll.
+Bis zum 21. 3. 2020 wurden gegenseitige Reviews gegeben. Erste Entwürfe im Code. Wo unterstützt Transition die Erzählung?
+
+<br />
+
+---
+
+
+#### History
+
+* Am **13. 3. 2020** muss der Text vorliegen, da dann dieser in die Website eingebaut werden soll.
 
 </div>
-
 
 
 
@@ -132,3 +141,24 @@ Da die Studierenden dies gemeinsam erarbeiten, wir dies auch über die Klasse hi
 
 ### Plagiate
 Bei Plagiaten wird die ganze Arbeit mit der Note 1 bewertet. Als Definition von Plagiaten gilt die [Definition der Universität Zürich](https://web.archive.org/web/20180718162232/http://www.uzh.ch/de/studies/teaching/plagiate.html).
+
+
+
+
+### Themen
+
+
+* **Dan Büschlen** – Versalien & Kapitälchen
+* **Nina Diem** – Vierliniensystem
+* **Sam Diener** – Wortabstände
+* **Samira Duddek** – Glyphen
+* **Stefanos Gjotas** – Satzart
+* **Patrick Hoffmann** – Schriftgrösse
+* **Chantal Hugentobler** – Strichstärke
+* **Joshua Kehrer** – Serifen
+* **Desirée Lanz** – Ligaturen
+* **Sina Obitsch** – Typografische Striche
+* **Selina Strickler** – Kerning
+* **Flavia Tschumi** – Typografische Trennungen
+* **Cheyenne Wäny** – Spationierung/Sperren
+* **Dominique Willi** – Minuskel-/Majuskelziffern

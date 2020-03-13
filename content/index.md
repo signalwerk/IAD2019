@@ -36,16 +36,26 @@ description: Dokumente für IAD 2019
 * [Grundlagen des Internets](https://signalwerk.github.io/learn.interaction/articles/internet-technology/)
 * [Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
 * [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
+* [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
 
+---
 
-## 1. Semester
+## 2. Semester
+
 ### Dokumente
-* [LAB · Hausaufgabe · Dokumentation · Experimentelles Erzählen](./exercise-exp-story/)
+
+* [LAB · Aufgabe · Fachwörter](./exercise-type-terms/)
 
 ### Slides
 
+
 <div class='slide-list'>
 
+#### [2020 · KW 11 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
+* [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
+* Lohnumfrage
+* Typografie
+* Aufgabe
 
 
 #### [2020 · KW 08 · LAB · 2. Semester](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW08-2019/)
@@ -53,9 +63,19 @@ description: Dokumente für IAD 2019
 * [Aufgabe · Fachwörter](./exercise-type-terms/)
 * [Color Management](https://signalwerk.github.io/publisher/colors/)
 * Auswertung erstes Semester
-* Aufgabe
 
 
+</div>
+
+---
+
+## 1. Semester
+### Dokumente
+* [LAB · Aufgabe · Dokumentation · Experimentelles Erzählen](./exercise-exp-story/)
+
+### Slides
+
+<div class='slide-list'>
 
 
 #### [2020 · KW 04 · LAB · Dokumentation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW04-2019/)
@@ -152,7 +172,7 @@ description: Dokumente für IAD 2019
 
 
 #### [2019 · KW 35 · LAB · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
-* [Dokument · Hausaufgabe](./exercise-exp-story/)
+* [Dokument · Aufgabe](./exercise-exp-story/)
 * Setup (Slack/GitHub/Texteditor)
 * Lernziele
 * Passwörter/Sicherheit
