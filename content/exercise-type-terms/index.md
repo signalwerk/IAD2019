@@ -26,7 +26,7 @@ description: Aufgabe · Fachwörter
 
 ### Aktuell Heimarbeit
 
-Bis zum 21. 3. 2020 wurden gegenseitige Reviews gegeben. Erste Entwürfe im Code. Wo unterstützt Transition die Erzählung?
+Bis zum 3. Juli 2020 wurden der Artikel in HTML gestaltet und ist auf [GitHub](https://github.com/logrinto/IAD2019.type-terms) sein.
 
 <br />
 
@@ -34,7 +34,9 @@ Bis zum 21. 3. 2020 wurden gegenseitige Reviews gegeben. Erste Entwürfe im 
 
 
 #### History
+* Bis zum **30. 5. 2020** wurden der Artikel in HTML gestaltet und ist auf [GitHub](https://github.com/logrinto/IAD2019.type-terms). Es muss noch nicht alles Perfekt sein.
 
+* Bis zum **21. 3. 2020** wurden gegenseitige Reviews gegeben. Erste Entwürfe im Code. Wo unterstützt Transition die Erzählung?
 * Am **13. 3. 2020** muss der Text vorliegen, da dann dieser in die Website eingebaut werden soll.
 
 </div>
@@ -47,7 +49,7 @@ Es gibt im Berufsalltag rund um das Thema Fonts/Typografie sehr viele Fachausdr�
 In dieser Semesterarbeit werden diverse dieser Fachwörter angeschaut, und jede Person erstellt eine Arbiet zu einem Fachwort.
 
 ### Termin
-Am 3. Juli 2020 muss die Website mittels GitHub online sein (koordination im Unterricht). Zusätzlich muss im Unterricht das Design und er Inhalt kurz präsentiert werden.
+Am 3. Juli 2020 muss die Website mittels [GitHub](https://github.com/logrinto/IAD2019.type-terms) online sein (koordination im Unterricht). Zusätzlich muss im Unterricht das Design und er Inhalt kurz präsentiert werden.
 
 
 ## Aufgabe & Ziel

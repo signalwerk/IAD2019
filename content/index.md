@@ -51,8 +51,22 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
-#### [2020 · KW 11 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
+
+
+
+#### [2020 · KW 22 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
+* [📅 Diary](./2020-KW22/)
+* Aufgabe
+
+
+
+#### [2020 · KW 12 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW12-2019/)
+* [📅 Diary](./2020-KW12/)
 * [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
+* Aufgabe
+
+
+#### [2020 · KW 11 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
 * Lohnumfrage
 * Typografie
 * Aufgabe

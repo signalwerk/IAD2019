@@ -36,7 +36,7 @@ function generateHTML({
     var filePath = path.join(dir, file);
     if (fs.statSync(filePath).isDirectory()) {
       try {
-        fs.mkdirSync(generatePath);
+        fs.mkdirSync(generatePath, { recursive: true });
       } catch (e) {}
       generateHTML({
         dir: filePath,
