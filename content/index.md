@@ -52,12 +52,14 @@ description: Dokumente für IAD 2019
 <div class='slide-list'>
 
 
+#### [2020 · KW 27 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW27-2019/)
+* Aufgabe
+* [Aufgabe · Button & Link](./exercise-button-link/)
 
 
 #### [2020 · KW 22 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
 * [📅 Diary](./2020-KW22/)
 * Aufgabe
-
 
 
 #### [2020 · KW 12 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW12-2019/)
