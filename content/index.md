@@ -37,8 +37,31 @@ description: Dokumente für IAD 2019
 * [Technologische Grundlagen des Web – HTML, CSS & JavaScript](https://signalwerk.github.io/learn.interaction/articles/basic-technology/)
 * [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
+* [Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
 
 ---
+
+## 3. Semester
+
+
+### Slides
+
+
+<div class='slide-list'>
+
+
+#### [2020 · KW 37 · OpenSource und Communities](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW37-2019/)
+* OpenSource
+* Lizenzen
+* [Aufgabe · Button & Link](./exercise-button-link/)
+* [Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
+
+
+
+</div>
+
+---
+
 
 ## 2. Semester
 
@@ -54,24 +77,24 @@ description: Dokumente für IAD 2019
 
 #### [2020 · KW 27 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW27-2019/)
 * Aufgabe
-* [Aufgabe · Button & Link](./exercise-button-link/)
+* [Präsentation · Fachwörter](./exercise-type-terms/)
 
 
 #### [2020 · KW 22 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
 * [📅 Diary](./2020-KW22/)
-* Aufgabe
+* [Aufgabe · Fachwörter](./exercise-type-terms/)
 
 
 #### [2020 · KW 12 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW12-2019/)
 * [📅 Diary](./2020-KW12/)
 * [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
-* Aufgabe
+* [Aufgabe · Fachwörter](./exercise-type-terms/)
 
 
 #### [2020 · KW 11 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
 * Lohnumfrage
 * Typografie
-* Aufgabe
+* [Aufgabe · Fachwörter](./exercise-type-terms/)
 
 
 #### [2020 · KW 08 · LAB · 2. Semester](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW08-2019/)
