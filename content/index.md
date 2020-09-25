@@ -38,23 +38,40 @@ description: Dokumente für IAD 2019
 * [Bildschirme und Fonts · Screens](https://signalwerk.github.io/learn.interaction/articles/screens/)
 * [Fonts · Eigenschaften](https://signalwerk.github.io/learn.interaction/articles/font-anatomy/)
 * [Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
+* [Dokumentation · OpenSource und Communities  – Linksammlung](./opensource-communities/)
+* [Dokumentation · Navigations- und Ordnungskonzepte](https://signalwerk.github.io/learn.interaction/articles/navigation/)
+* [Color Management](https://signalwerk.github.io/publisher/colors/)
+* [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
 
 ---
 
 ## 3. Semester
 
+### Semesterarbeit
+* [Aufgabe · News Portal](./exercise-news-site/)
 
 ### Slides
 
 
 <div class='slide-list'>
 
+#### [2020 · KW 39 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW39-2019/)
+
+* Navigation
+* [Aufgabe · News Portal](./exercise-news-site/)
+* [Dokumentation · Navigations- und Ordnungskonzepte](https://signalwerk.github.io/learn.interaction/articles/navigation/)
+
+
+
 
 #### [2020 · KW 37 · OpenSource und Communities](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW37-2019/)
 * OpenSource
 * Lizenzen
 * [Aufgabe · Button & Link](./exercise-button-link/)
-* [Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
+* [Dokumentation · Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
+* [Dokumentation · Linksammlung](./opensource-communities/)
+
+
 
 
 
@@ -65,7 +82,7 @@ description: Dokumente für IAD 2019
 
 ## 2. Semester
 
-### Dokumente
+### Semesterarbeit
 
 * [LAB · Aufgabe · Fachwörter](./exercise-type-terms/)
 
@@ -109,7 +126,7 @@ description: Dokumente für IAD 2019
 ---
 
 ## 1. Semester
-### Dokumente
+### Semesterarbeit
 * [LAB · Aufgabe · Dokumentation · Experimentelles Erzählen](./exercise-exp-story/)
 
 ### Slides
