@@ -26,6 +26,9 @@ title: Aufgabe · News Portal
 <div class="next">
 
 ### Aktuell Heimarbeit
+Am **31. 10. 2020** sollen alle Komponenten als Entwurf vorliegen (nicht in HTML).
+
+#### History
 
 Am **23. 10. 2020** sollen alle Inhalte vorliegen. Zudem soll es einen Entwurf (nicht in HTML nötig) für Mobile und Desktop geben.
 
@@ -39,7 +42,7 @@ Es soll eine Front-Seite (Homepage) einer News-Seite entworfen und in HTML umges
 * Teaser zu Kolumne (Meinung)
 * Wetter-Widget
 * Werbung
-* Herz/humbs Up/Like von Artikeln muss bereits im Teaser möglich sein
+* Herz/Thumbs Up/Like von Artikeln muss bereits im Teaser möglich sein
 
 ### Termin
 Am 21. Januar 2021 muss die Website (per GitHub in eigenem Repo) online sein.

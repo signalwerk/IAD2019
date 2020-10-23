@@ -7,7 +7,7 @@ description: Dokumente für IAD 2019
 
 # IAD 2019 · Dokumente
 
-<small>Signalwerk GmbH – Stefan Huber · 2019 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
+<small>Signalwerk GmbH – Stefan Huber · 2020 · [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</small>
 
 </header>
 
@@ -54,6 +54,14 @@ description: Dokumente für IAD 2019
 
 
 <div class='slide-list'>
+
+#### [2020 · KW 43 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW43-2019/)
+
+* Build-Systeme
+* SCSS
+* Grids
+* [Aufgabe · News Portal](./exercise-news-site/)
+
 
 #### [2020 · KW 39 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW39-2019/)
 
