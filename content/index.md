@@ -55,6 +55,15 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
+#### [2020 · KW 44 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW44-2019/)
+
+* Review/Work
+* US-Wahlen (Infografiken)
+* [Bausteine · Input-Fields](./exercise-input/)
+* [Aufgabe · News Portal](./exercise-news-site/)
+
+
+
 #### [2020 · KW 43 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW43-2019/)
 
 * Build-Systeme
@@ -75,7 +84,7 @@ description: Dokumente für IAD 2019
 #### [2020 · KW 37 · OpenSource und Communities](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW37-2019/)
 * OpenSource
 * Lizenzen
-* [Aufgabe · Button & Link](./exercise-button-link/)
+* [Bausteine · Button & Link](./exercise-button-link/)
 * [Dokumentation · Rechtslage – ein kleines 1 × 1](https://signalwerk.github.io/learn.interaction/articles/legal/)
 * [Dokumentation · Linksammlung](./opensource-communities/)
 
