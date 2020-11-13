@@ -55,13 +55,19 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
+#### [2020 · KW 46 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW46-2019/)
+
+* Werkstatt
+* [📅 Diary](./2020-KW46/)
+* [Bausteine · Input-Fields](./exercise-input/)
+* [Aufgabe · News Portal](./exercise-news-site/)
+
+
 #### [2020 · KW 44 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW44-2019/)
 
 * Review/Work
 * US-Wahlen (Infografiken)
-* [Bausteine · Input-Fields](./exercise-input/)
 * [Aufgabe · News Portal](./exercise-news-site/)
-
 
 
 #### [2020 · KW 43 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW43-2019/)

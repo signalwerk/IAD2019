@@ -26,7 +26,7 @@ title: Aufgabe · News Portal
 <div class="next">
 
 ### Aktuell Heimarbeit
-Am **31. 10. 2020** sollen alle Komponenten als Entwurf vorliegen (nicht in HTML).
+Am **4. 12. 2020** Besprechung und Review von Design
 
 #### History
 
