@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <title>Button &amp; Link</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="content">
+      <h1>Login</h1>
+      <p>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.
+      </p>
+      <form id="access">
+        <label for="name">Benutzername</label>
+        <input type="text" id="name" name="name" />
+        <label for="password">Passwort</label>
+        <input type="password" id="password" name="password" />
+        <a href="https://www.google.com/"><span>Passwort Vergessen</span></a>
+
+        <div class="cta">
+          <button class="button" form="access" value="submit">Anmelden</button>
+          <br />
+          <button disabled class="button" form="access" value="submit">
+            Anmelden
+          </button>
+          <p class="option">oder</p>
+          <button class="button button--secondary" form="access" value="submit">
+            Konto erstellen
+          </button>
+        </div>
+      </form>
+    </div>
+  </body>
+</html>
