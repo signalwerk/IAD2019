@@ -1,3 +1,4 @@
+[![Build Status](https://ci.signalwerk.ch/api/badges/signalwerk/IAD2019/status.svg)](https://ci.signalwerk.ch/signalwerk/IAD2019)
 # IAD2019
 
 ## Execution
