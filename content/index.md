@@ -55,6 +55,13 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
+#### [2020 · KW 47 · Ideation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW47-2019/)
+
+* [Dokumentation · Aufgabe](https://hackmd.io/kEx4mFC3ROGLoJGiznlcfg)
+* [Dokumentation · Lokalisierung · Internationalisierung](https://signalwerk.github.io/learn.interaction/articles/global-content/)
+
+
+
 #### [2020 · KW 46 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW46-2019/)
 
 * Werkstatt
