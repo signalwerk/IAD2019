@@ -55,6 +55,15 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
+
+
+#### [2020 · KW 49 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW49-2019/)
+
+* [📅 Diary](./2020-KW49/)
+* [Dokumentation · Navigations- und Ordnungskonzepte](https://signalwerk.github.io/learn.interaction/articles/navigation/)
+
+
+
 #### [2020 · KW 47 · Ideation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW47-2019/)
 
 * [Dokumentation · Aufgabe](https://hackmd.io/kEx4mFC3ROGLoJGiznlcfg)
