@@ -3,3 +3,4 @@ ci/.ssh/id_rsa
 ci/.ssh/secret.key
 /dist
 /content/2020-KW12/media/RPReplay_Final1579043643.mov
+/media

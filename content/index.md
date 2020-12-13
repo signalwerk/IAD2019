@@ -55,13 +55,19 @@ description: Dokumente für IAD 2019
 
 <div class='slide-list'>
 
+#### [2020 · KW 50 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW50-2019/)
+
+* [📅 Diary](./2020-KW50/)
+* Baustein Like
+* Werkstatt
 
 
 #### [2020 · KW 49 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW49-2019/)
 
 * [📅 Diary](./2020-KW49/)
+* Baustein Hamburger-Menu
 * [Dokumentation · Navigations- und Ordnungskonzepte](https://signalwerk.github.io/learn.interaction/articles/navigation/)
-
+* Werkstatt
 
 
 #### [2020 · KW 47 · Ideation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW47-2019/)

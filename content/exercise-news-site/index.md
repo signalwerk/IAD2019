@@ -26,10 +26,10 @@ title: Aufgabe · News Portal
 <div class="next">
 
 ### Aktuell Heimarbeit
-Am **4. 12. 2020** Besprechung und Review von Design
+Am **16. 1. 2020** Besprechung und Review von Design
 
 #### History
-
+Am **4. 12. 2020** Besprechung und Review von Design  
 Am **23. 10. 2020** sollen alle Inhalte vorliegen. Zudem soll es einen Entwurf (nicht in HTML nötig) für Mobile und Desktop geben.
 
 </div>
