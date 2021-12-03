@@ -50,7 +50,7 @@ description: Dokumente für IAD 2019
 ### Semesterarbeit
 * [Aufgabe · News Portal](./exercise-news-site/)
 
-### Slides
+
 
 
 <div class='slide-list'>
@@ -60,12 +60,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2021 · KW 03 · LAB · Präsentation](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW03-2019/)
+#### 2021 · KW 03
+LAB · Präsentation 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW03-2019/)
 * Werkstatt
 * Präsentation
 * Abschluss
@@ -77,12 +80,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2021 · KW 02 · LAB · OpenSource und Communitie](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW02-2019/)
+#### 2021 · KW 02
+LAB · OpenSource und Communitie 
+
 
 </div>
 <div class="col-7to12">
 
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW02-2019/)
 * [📅 Diary](./2021-KW02/)
 * OpenSource und Communitie
 * Werkstatt
@@ -94,12 +100,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2021 · KW 01 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW01-2019/)
+#### 2021 · KW 01
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW01-2019/)
 * [📅 Diary](./2021-KW01/)
 * Baustein Progress
 * Werkstatt
@@ -112,12 +121,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 50 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW50-2019/)
+#### 2020 · KW 50
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW50-2019/)
 * [📅 Diary](./2020-KW50/)
 * Baustein Like
 * Werkstatt
@@ -129,12 +141,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 49 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW49-2019/)
+#### 2020 · KW 49
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW49-2019/)
 * [📅 Diary](./2020-KW49/)
 * Baustein Hamburger-Menu
 * [Dokumentation · Navigations- und Ordnungskonzepte ↗](https://interaction.signalwerk.ch/articles/navigation/)
@@ -147,13 +162,17 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 47 · Ideation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW47-2019/)
+#### 2020 · KW 47
+Ideation 
+
 
 
 </div>
 <div class="col-7to12">
 
-* [Dokumentation · Aufgabe](https://hackmd.io/kEx4mFC3ROGLoJGiznlcfg)
+
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW47-2019/)
+* [Dokumentation · Aufgabe ↗](https://hackmd.io/kEx4mFC3ROGLoJGiznlcfg)
 * [Dokumentation · Lokalisierung · Internationalisierung ↗](https://interaction.signalwerk.ch/articles/global-content/)
 
 
@@ -164,12 +183,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 46 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW46-2019/)
+#### 2020 · KW 46
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW46-2019/)
 * Werkstatt
 * [📅 Diary](./2020-KW46/)
 * [Bausteine · Input-Fields](./exercise-input/)
@@ -182,12 +204,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 44 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW44-2019/)
+#### 2020 · KW 44
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW44-2019/)
 * Review/Work
 * US-Wahlen (Infografiken)
 * [Aufgabe · News Portal](./exercise-news-site/)
@@ -199,12 +224,16 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 43 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW43-2019/)
+#### 2020 · KW 43
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW43-2019/)
 * Build-Systeme
 * SCSS
 * Grids
@@ -217,12 +246,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 39 · LAB](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW39-2019/)
+#### 2020 · KW 39
+LAB 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW39-2019/)
 * Navigation
 * [Aufgabe · News Portal](./exercise-news-site/)
 * [Dokumentation · Navigations- und Ordnungskonzepte ↗](https://interaction.signalwerk.ch/articles/navigation/)
@@ -238,11 +270,14 @@ description: Dokumente für IAD 2019
 
 <div class="col-1to6">
 
-#### [2020 · KW 37 · OpenSource und Communities](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW37-2019/)
+#### 2020 · KW 37
+OpenSource und Communities 
+
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW37-2019/)
 * OpenSource
 * Lizenzen
 * [Bausteine · Button & Link](./exercise-button-link/)
@@ -266,7 +301,7 @@ description: Dokumente für IAD 2019
 
 * [LAB · Aufgabe · Fachwörter](./exercise-type-terms/)
 
-### Slides
+
 
 
 <div class='slide-list'>
@@ -276,12 +311,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 27 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW27-2019/)
+#### 2020 · KW 27
+LAB · Fachwörter 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW27-2019/)
 * Aufgabe
 * [Präsentation · Fachwörter](./exercise-type-terms/)
 
@@ -293,12 +331,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 22 · LAB · Fachwörter](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
+#### 2020 · KW 22
+LAB · Fachwörter 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
 * [📅 Diary](./2020-KW22/)
 * [Aufgabe · Fachwörter](./exercise-type-terms/)
 
@@ -310,12 +351,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 12 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW12-2019/)
+#### 2020 · KW 12
+LAB · Typografie 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW12-2019/)
 * [📅 Diary](./2020-KW12/)
 * [Fonts · Eigenschaften ↗](https://interaction.signalwerk.ch/articles/font-anatomy/)
 * [Aufgabe · Fachwörter](./exercise-type-terms/)
@@ -328,12 +372,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 11 · LAB · Typografie](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
+#### 2020 · KW 11
+LAB · Typografie 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW11-2019/)
 * Lohnumfrage
 * Typografie
 * [Aufgabe · Fachwörter](./exercise-type-terms/)
@@ -346,15 +393,18 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 08 · LAB · 2. Semester](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW08-2019/)
+#### 2020 · KW 08
+LAB · 2. Semester 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW08-2019/)
 * [Fablab Dokumentation](./typesetting-infos/)
 * [Aufgabe · Fachwörter](./exercise-type-terms/)
-* [Color Management](https://signalwerk.github.io/publisher/colors/)
+* [Color Management ↗](https://publisher.signalwerk.ch/colors/)
 * Auswertung erstes Semester
 
 
@@ -370,7 +420,7 @@ description: Dokumente für IAD 2019
 ### Semesterarbeit
 * [LAB · Aufgabe · Dokumentation · Experimentelles Erzählen](./exercise-exp-story/)
 
-### Slides
+
 
 <div class='slide-list'>
 
@@ -379,12 +429,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 04 · LAB · Dokumentation](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW04-2019/)
+#### 2020 · KW 04
+LAB · Dokumentation 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW04-2019/)
 * Präsentation
 * Rückblick
 
@@ -397,12 +450,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 03 · Semesterprüfung](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW03-2019/)
+#### 2020 · KW 03
+Semesterprüfung 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW03-2019/)
 * [Semesterprüfung · IAD2019](./excercise-first-semester/)
 
 
@@ -414,12 +470,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2020 · KW 02 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW02-2019/)
+#### 2020 · KW 02
+LAB · Domains 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW02-2019/)
 * Mobile Daten
 * [Custom Domain bei Freenom](./freenom/)
 
@@ -432,12 +491,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 50 · LAB · Domains](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW50-2019/)
+#### 2019 · KW 50
+LAB · Domains 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW50-2019/)
 * Domains (gratis)
 * Praxisarbeit
 
@@ -451,12 +513,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 44 · LAB · DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW44-2019/)
+#### 2019 · KW 44
+LAB · DNS 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW44-2019/)
 * [Dokumentation · Grundlagen des Internets ↗](https://interaction.signalwerk.ch/articles/internet-technology/)
 * Domains (gratis)
 * Provider
@@ -472,12 +537,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 40 · LAB · URL & DNS](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
+#### 2019 · KW 40
+LAB · URL & DNS 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW40-2019/)
 * [Dokumentation · Technologische Grundlagen des Web – HTML, CSS & JavaScript ↗](https://interaction.signalwerk.ch/articles/basic-technology/)
 * [Dokumentation · Grundlagen des Internets ↗](https://interaction.signalwerk.ch/articles/internet-technology/)
 * URL
@@ -494,12 +562,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 39 · LAB · Praxisarbeit](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
+#### 2019 · KW 39
+LAB · Praxisarbeit 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-2019/)
 * Praxisarbeit
 
 
@@ -511,12 +582,15 @@ description: Dokumente für IAD 2019
 
 <div class="col-1to6">
 
-#### [2019 · KW 39 · Technologiegeschichte der Schrift](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-font-technology/)
+#### 2019 · KW 39
+Technologiegeschichte der Schrift 
+
 
 </div>
 <div class="col-7to12">
 
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW39-font-technology/)
 * [Dokumentation ↗](https://interaction.signalwerk.ch/articles/font-history/)
 * Handschrift & Buchschrift
 * Werkzeug & Achslage
@@ -535,14 +609,17 @@ description: Dokumente für IAD 2019
 <div class="col-1to6">
 
 
-#### [2019 · KW 38 · Typografische Systeme](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
+#### 2019 · KW 38
+Typografische Systeme 
+
 
 
 </div>
 <div class="col-7to12">
 
 
-* [Korrekte Zeichensetzung](https://webtypo.signalwerk.ch/)
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW38-IAD2019-TypeSystem/)
+* [Korrekte Zeichensetzung ↗](https://webtypo.signalwerk.ch/)
 * Typografische Strukturen
 * Grid
 
@@ -556,12 +633,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 37 · LAB · Internet · 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
+#### 2019 · KW 37
+LAB · Internet · 1 × 1 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-2019/)
 * Internet · 1 × 1
 * Geschichte Internet
 * Übermittlung Daten
@@ -580,13 +660,16 @@ description: Dokumente für IAD 2019
 
 <div class="col-1to6">
 
-#### [2019 · KW 37 · Case Study · Self-Service](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
+#### 2019 · KW 37
+Case Study · Self-Service 
+
 
 </div>
 <div class="col-7to12">
 
 
-* [Aufgabestellung](https://github.com/logrinto/IAD2017-2019.self-service)
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW37-case-study/)
+* [Aufgabestellung ↗](https://github.com/logrinto/IAD2017-2019.self-service)
 * 24h-Pizzeria
 * Case Study
 
@@ -598,12 +681,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 36 · LAB · HTML & CSS 1 × 1](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
+#### 2019 · KW 36
+LAB · HTML & CSS 1 × 1 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019/)
 * Setup Git-Client
 * HTML & CSS 1×1
 
@@ -615,11 +701,14 @@ description: Dokumente für IAD 2019
 
 <div class="col-1to6">
 
-#### [2019 · KW 36 · Bildschirme und Fonts](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
+#### 2019 · KW 36
+Bildschirme und Fonts 
+
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW36-2019-screens/)
 * [Dokument · Screens ↗](https://interaction.signalwerk.ch/articles/screens/)
 * Bildschirmauflösung
 * Display Technologien
@@ -633,12 +722,15 @@ description: Dokumente für IAD 2019
 <div class="grid-12col">
 <div class="col-1to6">
 
-#### [2019 · KW 35 · LAB · Einführung](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
+#### 2019 · KW 35
+LAB · Einführung 
+
 
 
 </div>
 <div class="col-7to12">
 
+- 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2019/KW35/)
 * [Dokument · Aufgabe](./exercise-exp-story/)
 * Setup (Slack/GitHub/Texteditor)
 * Lernziele
