@@ -1,21 +1,15 @@
-/* reset css */
-@import "./components/basic";
+@import "signalwerk.documentation.md/root.css";
 
-/* basics */
-@import "./components/fonts";
-@import "./components/html";
-@import "./components/body";
-@import "./components/p";
-@import "./components/link";
-@import "./components/img";
-@import "./components/figure";
-@import "./components/figcaption";
-@import "./components/heading";
-@import "./components/list";
+.slide-list {
+  div[class^="grid-"] {
+    border-top: 1px solid gray;
+    margin-top: 2.4rem;
+    margin-bottom: 1.4rem;
+    padding-top: 0.7rem;
+    padding-bottom: 0.7rem;
+  }
 
-/* components */
-@import "./components/grid";
-@import "./components/header";
-@import "./components/navigation";
-@import "./components/index/slide-list";
-@import "./components/video";
+  div[class^="col-"] > *:first-child {
+    margin-top: 0;
+  }
+}

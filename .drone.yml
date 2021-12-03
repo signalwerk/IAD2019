@@ -2,8 +2,21 @@ kind: pipeline
 name: default
 
 steps:
+  - name: submodules
+    image: docker:git
+    commands:
+      - apk add --update openssl 
+      - mkdir ~/.ssh
+      - chmod 700 ~/.ssh
+      - ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts
+      - eval `ssh-agent -s`
+      - openssl aes-256-cbc -md sha256 -d -in "$(pwd)/ci/.ssh/id_rsa.enc" -pass "pass:$DECRYPT_KEY" | ssh-add -
+      - git submodule update --init --recursive --remote
+    environment:
+      DECRYPT_KEY:
+        from_secret: "DECRYPT_KEY"
   - name: build
-    image: node:12
+    image: node:16
     commands:
       - npm ci
       - bash ./ci/gh-pages.sh
@@ -14,4 +27,4 @@ steps:
       DEPLOY_DIR: "dist"
     when:
       branch:
-        - master
+        - main
