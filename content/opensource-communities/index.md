@@ -1,8 +1,15 @@
 ---
 title: Dokumentation · OpenSource und Communities
 ---
-# Dokumentation · OpenSource und Communities
-<div class='header'></div>
+
+
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 ## Freie Inhalte
 Die nachfolgende Liste wurde druch Studierende zusammengetragen.

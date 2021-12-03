@@ -2,7 +2,14 @@
 title: Diary · KW12 · 2020
 ---
 
-# Diary · KW12 · 2020
+
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 
 ## News
@@ -13,17 +20,13 @@ title: Diary · KW12 · 2020
 
 
 
-<div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/jijhJj_rNDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.youtube-nocookie.com/embed/jijhJj_rNDI" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### 3D Erfassung
 Wie funktioniert 3D?
 
-<div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/uq9SEJxZiUg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.youtube-nocookie.com/embed/uq9SEJxZiUg" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 ### LIDAR
@@ -33,15 +36,11 @@ Wie funktioniert 3D?
 
 Im video «House of Cards» von Radiohead wird ein LIDAR-Sensor kreativ genutzt:
 
-<div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/cyQoTGdQywY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.youtube-nocookie.com/embed/cyQoTGdQywY" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 Resultat:
 
-<div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/8nTFjVm9sTQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.youtube-nocookie.com/embed/8nTFjVm9sTQ" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 
 

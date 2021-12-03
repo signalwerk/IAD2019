@@ -3,7 +3,13 @@ title: Info · Fablab
 description: Fablab
 ---
 
-# Info · Fablab
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 
 # ACHTUNG!!!

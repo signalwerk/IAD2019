@@ -1,8 +1,13 @@
 ---
 title: Bausteine · Hamburger-Menu
 ---
-# Bausteine · Hamburger-Menu
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 <br />
 <hr />
