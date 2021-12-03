@@ -1,8 +1,13 @@
 ---
 title: Bausteine · Button & Link
 ---
-# Bausteine · Button & Link
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 ## Kontext
 Auf Anregung einiger Studierenden werden wir in loser Folge die «Bausteine» eines User-Interfaces anschauen.
