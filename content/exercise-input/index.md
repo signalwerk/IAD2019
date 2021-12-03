@@ -1,8 +1,13 @@
 ---
 title: Bausteine · Input-Fields
 ---
-# Bausteine · Input-Fields
-<div class='header'></div>
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 <br />
 <hr />

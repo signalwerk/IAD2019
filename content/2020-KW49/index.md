@@ -2,7 +2,14 @@
 title: Diary · KW49 · 2020
 ---
 
-# Diary · KW49 · 2020
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
+
 
 * [Begleitende Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW49-2019/)
 

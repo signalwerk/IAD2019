@@ -2,7 +2,13 @@
 title: Diary · KW01 · 2021
 ---
 
-# Diary · KW01 · 2021
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 * [Begleitende Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2021/KW01-2019/)
 

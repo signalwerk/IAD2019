@@ -2,7 +2,13 @@
 title: Diary · KW22 · 2020
 ---
 
-# Diary · KW22 · 2020
+<header>
+
+# {{process.content.frontmatter.title}}
+
+
+</header>
+
 
 * [Begleitende Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW22-2019/)
 
@@ -36,6 +42,4 @@ title: Diary · KW22 · 2020
 
 #### Grundlagen
 
-<div class="video">
-  <iframe src="https://www.youtube-nocookie.com/embed/OI7RBBSx510" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.youtube-nocookie.com/embed/OI7RBBSx510" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
