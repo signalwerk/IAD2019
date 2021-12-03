@@ -304,6 +304,19 @@ description: Dokumente für IAD 2019
 
 
 
+<!-- 
+
+FR 25.02.2022, 08:15–16:15, Unterricht SfGZ– Portfolio, Blog & Typografie
+SA 05.03.2022, 12:45–16:15, Unterricht SfGZ– Portfolio, Blog & Typografie
+SA 12.03.2022, 12:45–16:15, Unterricht SfGZ– Portfolio, Blog & Typografie
+SA 19.03.2022, 08:15–16:15, Unterricht SfGZ– Portfolio, Blog & Typografie
+SA 26.03.2022, 08:15–16:15, Unterricht SfGZ– Portfolio, Blog & Typografie
+
+-->
+
+
+
+
 
 
 </div>
