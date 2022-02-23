@@ -45,6 +45,38 @@ description: Dokumente für IAD 2019
 
 ---
 
+
+
+## 6. Semester
+
+<div class='slide-list'>
+
+* [Aufgabe · Portfolio](./exercise-portfolio/)
+
+
+<div class="grid-12col">
+<div class="col-1to6">
+
+#### 2022 · KW 08
+Portfolio, Blog und Typografie · Einführung 
+
+
+</div>
+<div class="col-7to12">
+
+* 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2022/KW08-2019/)
+* 📝 [Aufgabe · Portfolio](./exercise-portfolio/)
+* Einführung
+* Bewerbungsprozess
+* Werkstatt
+
+</div>
+
+
+
+
+</div>
+
 ## 3. Semester
 
 ### Semesterarbeit
@@ -195,7 +227,7 @@ LAB
 * Werkstatt
 * [📅 Diary](./2020-KW46/)
 * [Bausteine · Input-Fields](./exercise-input/)
-* [Aufgabe · News Portal](./exercise-news-site/)
+* 📝 [Aufgabe · News Portal](./exercise-news-site/)
 
 
 </div>
@@ -215,7 +247,7 @@ LAB
 - 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW44-2019/)
 * Review/Work
 * US-Wahlen (Infografiken)
-* [Aufgabe · News Portal](./exercise-news-site/)
+* 📝 [Aufgabe · News Portal](./exercise-news-site/)
 
 
 </div>
@@ -237,7 +269,7 @@ LAB
 * Build-Systeme
 * SCSS
 * Grids
-* [Aufgabe · News Portal](./exercise-news-site/)
+* 📝 [Aufgabe · News Portal](./exercise-news-site/)
 
 
 </div>
@@ -256,7 +288,7 @@ LAB
 
 - 🧑‍🏫 [Slides](https://signalwerk.github.io/IAD.LAB.SLD/data/2020/KW39-2019/)
 * Navigation
-* [Aufgabe · News Portal](./exercise-news-site/)
+* 📝 [Aufgabe · News Portal](./exercise-news-site/)
 * [Dokumentation · Navigations- und Ordnungskonzepte ↗](https://interaction.signalwerk.ch/articles/navigation/)
 
 
